@@ -1,8 +1,8 @@
 module.exports = {
 
-    author: "@konstantinmuenster",
-    siteTitle: "Gatsby Starter Portfolio Minimal",
-    siteShortTitle: "Gatsby", // Used as logo text in header, footer, and splash screen
+    author: "@javierdominguez",
+    siteTitle: "Javier Dominguez Portfolio",
+    siteShortTitle: "jd.", // Used as logo text in header, footer, and splash screen
     siteDescription: "A modern one-page portfolio with a clean yet expressive design.",
     siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
     siteLanguage: "en_US",
@@ -21,19 +21,15 @@ module.exports = {
     socialMedia: [
         {
             name: "Linkedin",
-            url: "https://www.linkedin.com/in/konstantin-muenster/"
+            url: "https://www.linkedin.com/in/dominguezjavier"
         },
         {
             name: "Medium",
-            url: "https://konstantinmuenster.medium.com/"
+            url: "https://https://medium.com/@javierdominguez09"
         },
         {
             name: "Github",
-            url: "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal"
-        },
-        {
-            name: "Behance",
-            url: "https://www.behance.net/konstanmnster"
+            url: "https://github.com/slothsworth"
         },
     ],
   
